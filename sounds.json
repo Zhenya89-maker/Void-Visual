@@ -1,0 +1,11 @@
+{
+  "music.void_night": {
+    "sounds": [{ "name": "voidvisuals:music/void_night", "stream": true }]
+  },
+  "music.dark_space": {
+    "sounds": [{ "name": "voidvisuals:music/dark_space", "stream": true }]
+  },
+  "music.white_dream": {
+    "sounds": [{ "name": "voidvisuals:music/white_dream", "stream": true }]
+  }
+}

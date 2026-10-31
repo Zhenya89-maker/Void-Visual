@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "voidvisuals",
+  "version": "${version}",
+  "name": "VOID VISUALS",
+  "description": "A dark glass visual client-side mod with violet accents for Minecraft 1.21.11.",
+  "authors": ["VOID VISUALS"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.voidvisuals.client.VoidVisualsClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
